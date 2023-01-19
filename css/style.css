@@ -321,7 +321,9 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     /* background: url(https://pixabay.com/illustrations/iot-internet-of-things-network-3337536/); */
+     /* background: url(https://cdn.pixabay.com/photo/2018/04/19/16/47/cloud-3333628__340.png); */
+     background: url(../images/banner1.jpg);
      padding: 310px 0px 0px 0px;
      background-size: 100% 100%;
      background-repeat: no-repeat;
@@ -333,7 +335,8 @@ button {
 }
 
 .text-bg h1 {
-     color: #fff;
+     /* color: #fff; */
+     color: #03cafc;
      font-size: 89px;
      line-height: 91px;
      padding-bottom: 45px;
