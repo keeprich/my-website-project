@@ -679,10 +679,12 @@ button {
 .team .team_box {
      text-align: center;
      margin-bottom: 30px;
+     
 }
 
 .team .team_box figure {
      margin: 0;
+      
 }
 
 .social_box {
@@ -691,20 +693,26 @@ button {
      z-index: 999;
      position: relative;
      padding: 23px 0;
+    
 }
 
 .team .social_box h3 {
-     color: #37139a;
-     font-size: 17px;
+     /* color: #37139a; */
+     color: #fcc10e;
+
+     font-size: 20px;
      line-height: 20px;
      padding: 12px 0px 9px 0px;
+     font-weight: 900;
+
 }
 
 .team .social_box p {
-     color: #030108;
-     font-size: 16px;
+     /* color: #030108; */
+     color: #fcc10e;
+     font-size: 20px;
      line-height: 20px;
-     font-weight: 400;
+     font-weight: 900;
 }
 
 ul.social_team li {
@@ -794,6 +802,8 @@ ul.social_team li a {
      border-left: inherit;
      border-right: inherit;
 }
+
+
 
 .send_btn {
      background: #fcc10e;
