@@ -311,7 +311,7 @@ button {
 .logo {
      text-align: center;
      margin-top: -33px !important;
-     border: #fff solid 2px;
+     /* border: #fff solid 2px; */
      max-width: 200px;
      padding: 15px 0 28px 0;
      margin: 0 auto;
